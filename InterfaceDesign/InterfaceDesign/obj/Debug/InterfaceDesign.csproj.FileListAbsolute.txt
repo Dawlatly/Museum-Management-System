@@ -1,0 +1,22 @@
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.exe.config
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.exe
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.pdb
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.csprojResolveAssemblyReference.cache
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.Properties.Resources.resources
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.csproj.GenerateResource.Cache
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.exe
+c:\users\7oda9\onedrive\documents\visual studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.pdb
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.AddPainting.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.AttendanceReport.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.DeletePainting.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.EditPainting.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.PaintingSearch.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.MainMenu.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.Admin.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.StaffManager.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.TourGuide.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.SalesAgent.resources
+C:\Users\7oda9\OneDrive\Documents\Visual Studio 2015\Projects\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.SalesReport.resources
+C:\Users\Mahmoud Dawlatly\Downloads\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.exe.config
+C:\Users\Mahmoud Dawlatly\Downloads\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.exe
+C:\Users\Mahmoud Dawlatly\Downloads\InterfaceDesign\InterfaceDesign\obj\Debug\InterfaceDesign.pdb
